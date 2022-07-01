@@ -35,10 +35,22 @@
         left: 130px;
       }
 
+      #linha-do-tempo{
+        margin-left: 10px!important;
+    }
+    
+    #ponto-trajetoria{
+        margin-left: 57px!important;
+        margin-left: 100px!important;
+    }
+
+    #formacao, #complementares, #carreira{
+        margin-left: 100px!important;
+        margin-left: 20px!important;
+    }
 
 }
       
-}
 
 
 /* sm (small) - Para celulares*/
